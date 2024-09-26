@@ -1,4 +1,4 @@
-Available Scripts
+Available Scripts : Terminal
 # `npm start`
 # `npm test`
 # `npm run build`
